@@ -1,9 +1,4 @@
-### CS435 Big Data Project
-Analyzing museum datasets (paintings) to determine how the aspect ratio of paintings by different artists changes it's orientation over time. 
-
-
-* Instructions for running: 
--
-
--
--
+###Composition Ratio Analysis
+Utilizes MapReduce to sterilize, combine, and
+operate on three museum datasets. Looks for trends in artists composition ratios as they progress
+through their career.
