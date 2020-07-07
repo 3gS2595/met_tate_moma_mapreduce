@@ -1,3 +1,4 @@
 ### Composition Ratio Analysis
-Ongoing project utilizing MapReduce to sterilize, combine, and operate on three museum datasets (TATE/MOMA/MET) Looking for trends in artists composition ratios in relation to their overall careers progression.
+utilizing MapReduce, sterilizes, combines, and operates on three museum datasets (TATE/MOMA/MET) and looks for trends in composition ratios in visual art relating to an artists indavidual career progrssion. 
 
+inspired by a professors joking that as a painter gets older their compositions slowley move towards squares.
